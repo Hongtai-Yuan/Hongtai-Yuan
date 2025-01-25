@@ -10,9 +10,13 @@
 
 ### ⭐️ &nbsp;Github Star
 
-<p align="center">
+<p align="left">
   <img width="48%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y250HT&count_private=true&show_icons=true" />
   <img width="48%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y250HT" />
+</p>
+
+<p align="right">
+  <img width="90%" alt="Ashutosh's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Y250HT" />
 </p>
 
 
@@ -20,7 +24,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:1501483814@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-1501483814@qq.com-blue?style=flat-square&logo=gmail"></a>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Y250HT)
+
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit

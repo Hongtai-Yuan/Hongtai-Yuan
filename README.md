@@ -10,9 +10,11 @@
 
 ### ⭐️ &nbsp;Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y250HT&count_private=true&show_icons=true"/>
+<p align="center">
+  <img width="48%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y250HT&count_private=true&show_icons=true" />
+  <img width="48%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y250HT" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y250HT)
 
 
 ### 🤝🏻 &nbsp;Connect with Me

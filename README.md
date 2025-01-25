@@ -10,14 +10,11 @@
 
 ### ⭐️ &nbsp;Github Star
 
-<p align="left">
-  <img width="48%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y250HT&count_private=true&show_icons=true" />
-  <img width="48%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y250HT" />
-</p>
 
-<p align="right">
-  <img width="90%" alt="Ashutosh's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Y250HT" />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <img width="57%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y250HT&count_private=true&show_icons=true" />
+  <img width="25%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y250HT" />
+</div>
 
 
 

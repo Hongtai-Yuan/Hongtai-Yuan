@@ -18,6 +18,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:1501483814@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-1501483814@qq.com-blue?style=flat-square&logo=gmail"></a>
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Y250HT)
+
 
 ### 🛳 &nbsp;Your ticket ID for this visit
 <img src="https://profile-counter.glitch.me/Y250HT/count.svg" />

@@ -6,6 +6,8 @@
  </abc>
 </h2>
 
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 ### ⭐️ &nbsp;Github Star
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y250HT&count_private=true&show_icons=true"/>

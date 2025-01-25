@@ -12,6 +12,8 @@
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Y250HT&count_private=true&show_icons=true"/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y250HT)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:1501483814@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-1501483814@qq.com-blue?style=flat-square&logo=gmail"></a>

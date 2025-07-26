@@ -18,5 +18,3 @@
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:1501483814@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-1501483814@qq.com-blue?style=flat-square&logo=gmail"></a>
 
-### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/Hongtai-Yuan/count.svg" />
